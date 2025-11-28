@@ -1,6 +1,6 @@
 <div align="center">
 
-# OplusKeyHook v1.2
+# OplusKeyHook v1.3
 
 **一款针对搭载ColorOS且配备快捷键的手机进行功能自定义的模块**
 
@@ -21,7 +21,8 @@
 - 支持一键设置成打开微信/支付宝付款码、扫一扫
 - 支持执行小布快捷指令、一键闪记、小布记忆等常用功能 [获取小布快捷指令ID教程](https://github.com/siowu/OplusKeyHook/blob/main/docs/%E8%8E%B7%E5%8F%96%E5%B0%8F%E5%B8%83%E5%BF%AB%E6%8D%B7%E6%8C%87%E4%BB%A4ID%E6%95%99%E7%A8%8B.md)
 - 支持打开自定义Activity [自定义Activity教程](https://github.com/siowu/OplusKeyHook/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89Activity%E6%95%99%E7%A8%8B.md) 
-- 支持调用自定义Url Scheme [自定义UrlScheme教程](https://github.com/siowu/OplusKeyHook/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89UrlScheme%E6%95%99%E7%A8%8B.md) 
+- 支持调用自定义Url Scheme [自定义UrlScheme教程](https://github.com/siowu/OplusKeyHook/blob/main/docs/%E8%87%AA%E5%AE%9A%E4%B9%89UrlScheme%E6%95%99%E7%A8%8B.md)
+- 支持执行Shell命令 
 - 支持自定义是否震动反馈、息屏状态下是否执行，并亮屏等待解锁
 
 ## 🚀使用教程
@@ -35,10 +36,11 @@
 
 当前为初步版本，后续可能加入以下功能：<br>
 ~~1. 区分单击、长按、双击的单独功能设置~~ (v1.1版本已实现)<br>
-2. 支持执行自定义Shell命令
+~~2. 支持执行自定义Shell命令~~(v1.3版本已实现)<br>
 
 ## 📝更新日志
 
+v1.3 新增支持执行自定义Shell命令
 v1.2 新增支持小布快捷指令、一键闪记、小布记忆  
 v1.1 新增区分短按、双击、长按功能
 

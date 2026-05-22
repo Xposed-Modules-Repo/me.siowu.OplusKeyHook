@@ -5,7 +5,7 @@
 **一款针对搭载ColorOS且配备快捷键的手机进行功能自定义的模块**
 
 [![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/me.siowu.OplusKeyHook?style=flat-square)](https://github.com/Xposed-Modules-Repo/me.siowu.OplusKeyHook/releases)
-[![GitHub stars](https://img.shields.io/github/stars/Xposed-Modules-Repo/me.siowu.OplusKeyHook?style=flat-square&color=yellow)](https://github.com/Xposed-Modules-Repo/me.siowu.OplusKeyHook/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/siowu/OplusKeyHook?style=flat-square&color=yellow)](https://github.com/siowu/OplusKeyHook/stargazers)
 <a href="https://github.com/siowu/OplusKeyHook">
         <img src="https://img.shields.io/badge/Github-OplusKeyHook-yellow.svg" alt="socialify"/>
 </a>
@@ -40,7 +40,7 @@
 
 ## 📝更新日志
 
-v1.4 优化Shell命令执行方案，解决因后台限制导致的命令执行失败或延迟
+v1.4 优化Shell命令执行方案，解决因后台限制导致的命令执行失败或延迟  
 v1.3 新增支持执行自定义Shell命令  
 v1.2 新增支持小布快捷指令、一键闪记、小布记忆  
 v1.1 新增区分短按、双击、长按功能
